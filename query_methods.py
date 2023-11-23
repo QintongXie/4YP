@@ -1,6 +1,5 @@
 """
-The file containing implementations to all of the query strategies. References to all of these methods can be found in
-the blog that accompanies this code.
+The file containing implementations to all of the query strategies. 
 """
 
 import gc
