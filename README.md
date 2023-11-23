@@ -1,5 +1,5 @@
-# Project: Fingerprinting AI Workloads
-A repository for AI workloads fingerprinting.
+# Project: Predicting AI Workloads
+A repository for AI workloads prediction.
 
 ## Logs:
 ### 1. Monitor CPU information simply. (ai_sensors_cpu_auto_to_file.sh)
