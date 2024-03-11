@@ -1,0 +1,260 @@
+----------------------------------------
+Date and Time: Sun Mar 10 10:32:36 PM GMT 2024
+CPU Utilization: 3.09%
+CPU Temperature: +53.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:32:38 PM GMT 2024
+CPU Utilization: 3.16%
+CPU Temperature: +53.0°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:32:40 PM GMT 2024
+CPU Utilization: 3.16%
+CPU Temperature: +52.8°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:32:42 PM GMT 2024
+CPU Utilization: 3.16%
+CPU Temperature: +52.5°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:32:44 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:32:47 PM GMT 2024
+CPU Utilization: 3.16%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:32:49 PM GMT 2024
+CPU Utilization: 3.12%
+CPU Temperature: +52.2°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:32:51 PM GMT 2024
+CPU Utilization: 3.10%
+CPU Temperature: +52.2°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:32:53 PM GMT 2024
+CPU Utilization: 3.12%
+CPU Temperature: +52.1°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:32:55 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.1°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:32:57 PM GMT 2024
+CPU Utilization: 3.16%
+CPU Temperature: +52.0°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:32:59 PM GMT 2024
+CPU Utilization: 3.12%
+CPU Temperature: +52.0°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:01 PM GMT 2024
+CPU Utilization: 3.12%
+CPU Temperature: +52.0°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:03 PM GMT 2024
+CPU Utilization: 3.12%
+CPU Temperature: +52.0°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:05 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.0°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:07 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.1°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:09 PM GMT 2024
+CPU Utilization: 3.19%
+CPU Temperature: +52.1°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:11 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.1°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:13 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.0°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:15 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.0°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:17 PM GMT 2024
+CPU Utilization: 3.12%
+CPU Temperature: +52.0°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:19 PM GMT 2024
+CPU Utilization: 3.16%
+CPU Temperature: +52.1°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:21 PM GMT 2024
+CPU Utilization: 3.12%
+CPU Temperature: +52.0°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:23 PM GMT 2024
+CPU Utilization: 3.12%
+CPU Temperature: +52.0°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:25 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.1°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:27 PM GMT 2024
+CPU Utilization: 3.16%
+CPU Temperature: +52.1°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:29 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.1°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:31 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.1°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:33 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.1°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:35 PM GMT 2024
+CPU Utilization: 3.16%
+CPU Temperature: +52.1°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:37 PM GMT 2024
+CPU Utilization: 3.16%
+CPU Temperature: +52.0°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:39 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +51.8°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:41 PM GMT 2024
+CPU Utilization: 3.83%
+CPU Temperature: +51.8°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:43 PM GMT 2024
+CPU Utilization: 3.16%
+CPU Temperature: +51.6°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:45 PM GMT 2024
+CPU Utilization: 3.15%
+CPU Temperature: +51.6°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:47 PM GMT 2024
+CPU Utilization: 3.18%
+CPU Temperature: +51.6°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:49 PM GMT 2024
+CPU Utilization: 3.11%
+CPU Temperature: +51.6°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:51 PM GMT 2024
+CPU Utilization: 3.09%
+CPU Temperature: +51.6°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:53 PM GMT 2024
+CPU Utilization: 3.12%
+CPU Temperature: +51.9°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:56 PM GMT 2024
+CPU Utilization: 3.12%
+CPU Temperature: +52.0°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:33:58 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.1°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:00 PM GMT 2024
+CPU Utilization: 3.16%
+CPU Temperature: +52.1°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:02 PM GMT 2024
+CPU Utilization: 3.16%
+CPU Temperature: +52.2°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:04 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:06 PM GMT 2024
+CPU Utilization: 3.16%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:08 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:10 PM GMT 2024
+CPU Utilization: 3.16%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:12 PM GMT 2024
+CPU Utilization: 3.12%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:14 PM GMT 2024
+CPU Utilization: 3.12%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:16 PM GMT 2024
+CPU Utilization: 3.19%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:18 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:20 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:22 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:24 PM GMT 2024
+CPU Utilization: 3.12%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:26 PM GMT 2024
+CPU Utilization: 3.12%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:28 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:30 PM GMT 2024
+CPU Utilization: 3.09%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:32 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.2°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:34 PM GMT 2024
+CPU Utilization: 3.16%
+CPU Temperature: +52.2°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:36 PM GMT 2024
+CPU Utilization: 3.16%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:38 PM GMT 2024
+CPU Utilization: 3.12%
+CPU Temperature: +52.4°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:40 PM GMT 2024
+CPU Utilization: 3.16%
+CPU Temperature: +52.2°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:42 PM GMT 2024
+CPU Utilization: 3.13%
+CPU Temperature: +52.1°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:44 PM GMT 2024
+CPU Utilization: 3.12%
+CPU Temperature: +51.9°C
+----------------------------------------
+Date and Time: Sun Mar 10 10:34:46 PM GMT 2024
+CPU Utilization: 3.45%
+CPU Temperature: +51.8°C
