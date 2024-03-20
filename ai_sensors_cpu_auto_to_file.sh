@@ -1,7 +1,13 @@
 #!/bin/bash
 
-# Specify the output file
-output_file="cpu_monitor_output.txt"
+# Check if an output file name is passed as an argument
+if [ "$#" -ne 1 ]; then
+    echo "Usage: $0 output_file_name"
+    exit 1
+fi
+
+# Use the argument as the output file name
+output_file="$1"
 
 # Start the monitoring loop
 while true; do
@@ -11,10 +17,6 @@ while true; do
     # Get CPU Utilization
     cpu_utilization=$(mpstat 1 1 | awk '/Average:/ {print $3 "%"}')
 
-    # Get CPU Frequency
-    cpu_max_freq=$(lscpu | grep "CPU max MHz" | awk '{print $4}')
-    cpu_min_freq=$(lscpu | grep "CPU min MHz" | awk '{print $4}')
-
     # Get CPU Temperature
     # This requires lm-sensors to be installed and configured *sudo apt install lm-sensors*
     cpu_temp=$(sensors | grep 'Tctl:' | awk '{print $2}')
@@ -23,11 +25,8 @@ while true; do
     echo "----------------------------------------" >> $output_file
     echo "Date and Time: $date_info" >> $output_file
     echo "CPU Utilization: $cpu_utilization" >> $output_file
-    echo "CPU Max Frequency: ${cpu_max_freq} MHz" >> $output_file
-    echo "CPU Min Frequency: ${cpu_min_freq} MHz" >> $output_file
     echo "CPU Temperature: $cpu_temp" >> $output_file
 
-    # Wait for 5 seconds
-    sleep 5
+    # Wait for 1 seconds
+    sleep 1
 done
-
