@@ -1,8 +1,3 @@
-2024-03-10 21:30:34.577047: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
-2024-03-10 21:30:34.577095: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
-2024-03-10 21:30:34.578065: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
-2024-03-10 21:30:34.582565: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
-To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
 #           time             counts unit events
      1.001077466     23,334,633,481      cycles                                                                  (83.18%)
      1.001077466     19,739,490,692      instructions                     #    0.85  insn per cycle              (84.37%)
@@ -10,7 +5,6 @@ To enable the following instructions: AVX2 FMA, in other operations, rebuild Ten
      1.001077466         75,181,847      cache-misses                     #   18.82% of all cache refs           (84.59%)
      1.001077466      4,131,107,205      branches                                                                (82.43%)
      1.001077466        468,976,395      branch-misses                    #   11.35% of all branches             (82.35%)
-2024-03-10 21:30:35.090874: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
      2.002553674      4,562,911,463      cycles                                                                  (83.72%)
      2.002553674      6,969,384,411      instructions                     #    1.53  insn per cycle              (83.36%)
      2.002553674        311,281,543      cache-references                                                        (83.36%)
