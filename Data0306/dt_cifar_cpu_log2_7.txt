@@ -1,0 +1,23 @@
+2024-03-05 21:14:13.247718: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-03-05 21:14:13.247766: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-03-05 21:14:13.248718: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-03-05 21:14:13.253195: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+#           time             counts unit events
+     1.001033346     23,334,721,374      cycles                                                                  (83.92%)
+     1.001033346     19,744,648,026      instructions                     #    0.85  insn per cycle              (83.71%)
+     1.001033346        405,390,515      cache-references                                                        (83.05%)
+     1.001033346         74,513,424      cache-misses                     #   18.38% of all cache refs           (84.59%)
+     1.001033346      4,140,707,819      branches                                                                (82.41%)
+     1.001033346        469,268,049      branch-misses                    #   11.33% of all branches             (82.35%)
+2024-03-05 21:14:13.756548: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Traceback (most recent call last):
+  File "/home/ziji/qintong_project/./model/dt_cifar.py", line 13, in <module>
+    tf.get_logger().setLevel('ERROR')
+NameError: name 'tf' is not defined
+     1.774524755      3,506,090,262      cycles                                                                  (82.97%)
+     1.774524755      3,490,831,823      instructions                     #    1.00  insn per cycle              (83.42%)
+     1.774524755        257,960,955      cache-references                                                        (83.48%)
+     1.774524755         62,571,314      cache-misses                     #   24.26% of all cache refs           (83.54%)
+     1.774524755        732,559,822      branches                                                                (83.54%)
+     1.774524755         28,664,678      branch-misses                    #    3.91% of all branches             (83.53%)
