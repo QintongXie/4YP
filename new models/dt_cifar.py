@@ -4,6 +4,7 @@ from datetime import datetime
 import warnings
 import subprocess
 import numpy as np
+import tensorflow as tf
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 from tensorflow.keras.datasets import cifar10
