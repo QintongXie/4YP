@@ -1,0 +1,8 @@
+----------------------------------------
+Date and Time: Tue Mar  5 09:00:52 PM GMT 2024
+CPU Utilization: 3.00%
+CPU Temperature: +68.1°C
+----------------------------------------
+Date and Time: Tue Mar  5 09:00:54 PM GMT 2024
+CPU Utilization: 9.66%
+CPU Temperature: +66.0°C

@@ -1,0 +1,26 @@
+2024-03-05 19:30:26.019261: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-03-05 19:30:26.019312: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-03-05 19:30:26.020286: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-03-05 19:30:26.024860: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+#           time             counts unit events
+     1.001041499     23,305,516,008      cycles                                                                  (83.60%)
+     1.001041499     19,715,508,534      instructions                     #    0.85  insn per cycle              (83.96%)
+     1.001041499        411,703,719      cache-references                                                        (83.49%)
+     1.001041499         75,115,067      cache-misses                     #   18.24% of all cache refs           (84.24%)
+     1.001041499      4,129,497,923      branches                                                                (82.40%)
+     1.001041499        468,794,623      branch-misses                    #   11.35% of all branches             (82.34%)
+2024-03-05 19:30:26.528511: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+     2.002468980      4,457,712,666      cycles                                                                  (82.82%)
+     2.002468980      6,430,807,396      instructions                     #    1.44  insn per cycle              (83.56%)
+     2.002468980        306,149,146      cache-references                                                        (83.22%)
+     2.002468980         53,172,671      cache-misses                     #   17.37% of all cache refs           (83.57%)
+     2.002468980      1,190,291,984      branches                                                                (83.22%)
+     2.002468980         36,179,741      branch-misses                    #    3.04% of all branches             (83.69%)
+Training completed. Training time: 0.00 seconds
+     2.483331406      2,185,695,560      cycles                                                                  (83.40%)
+     2.483331406      2,632,344,196      instructions                     #    1.20  insn per cycle              (83.54%)
+     2.483331406         90,193,868      cache-references                                                        (83.27%)
+     2.483331406         23,510,089      cache-misses                     #   26.07% of all cache refs           (83.50%)
+     2.483331406        558,836,264      branches                                                                (83.32%)
+     2.483331406          7,006,422      branch-misses                    #    1.25% of all branches             (83.69%)
