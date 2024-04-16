@@ -19,13 +19,17 @@ while true; do
 
     # Get CPU Temperature
     # This requires lm-sensors to be installed and configured *sudo apt install lm-sensors*
-    cpu_temp=$(sensors | grep 'Tctl:' | awk '{print $2}')
+    cpu_temp1=$(sensors | grep 'temp1:' | awk '{print $2}')
+    cpu_temp2=$(sensors | grep 'temp2:' | awk '{print $2}')
+    cpu_temp3=$(sensors | grep 'temp3:' | awk '{print $2}')
 
     # Write the information to the file
     echo "----------------------------------------" >> $output_file
     echo "Date and Time: $date_info" >> $output_file
     echo "CPU Utilization: $cpu_utilization" >> $output_file
-    echo "CPU Temperature: $cpu_temp" >> $output_file
+    echo "CPU Temperature1: $cpu_temp1" >> $output_file
+    echo "CPU Temperature2: $cpu_temp2" >> $output_file
+    echo "CPU Temperature3: $cpu_temp3" >> $output_file
 
     # Wait for 1 seconds
     sleep 1

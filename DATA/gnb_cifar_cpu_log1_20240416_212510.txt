@@ -1,0 +1,6 @@
+----------------------------------------
+Date and Time: Tue 16 Apr 21:25:10 BST 2024
+CPU Utilization: 6.54%
+CPU Temperature1: +58.0°C
+CPU Temperature2: +39.0°C
+CPU Temperature3: +25.0°C
