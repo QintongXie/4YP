@@ -4,7 +4,7 @@
 model_dir="./new_model"
 
 # Iterate through Python files in the model directory
-for model_file in "${model_dir}"/*.py; do
+for model_file in "${model_dir}"/mlp_new.py; do
     # Extract the model name from the file path (removing path and extension)
     model_name=$(basename "${model_file}" .py)
     
