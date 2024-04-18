@@ -1,0 +1,66 @@
+----------------------------------------
+Date and Time: Wed 17 Apr 00:09:43 BST 2024
+CPU Utilization: 3.57%
+CPU Temperature1: +65.0°C
+CPU Temperature2: +38.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 00:09:45 BST 2024
+CPU Utilization: 3.57%
+CPU Temperature1: +66.0°C
+CPU Temperature2: +39.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 00:09:47 BST 2024
+CPU Utilization: 3.53%
+CPU Temperature1: +66.0°C
+CPU Temperature2: +38.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 00:09:49 BST 2024
+CPU Utilization: 3.50%
+CPU Temperature1: +67.0°C
+CPU Temperature2: +39.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 00:09:51 BST 2024
+CPU Utilization: 3.53%
+CPU Temperature1: +67.0°C
+CPU Temperature2: +39.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 00:09:53 BST 2024
+CPU Utilization: 3.18%
+CPU Temperature1: +54.0°C
+CPU Temperature2: +38.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 00:09:55 BST 2024
+CPU Utilization: 3.61%
+CPU Temperature1: +60.0°C
+CPU Temperature2: +39.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 00:09:57 BST 2024
+CPU Utilization: 3.57%
+CPU Temperature1: +60.0°C
+CPU Temperature2: +38.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 00:09:59 BST 2024
+CPU Utilization: 3.57%
+CPU Temperature1: +63.0°C
+CPU Temperature2: +39.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 00:10:01 BST 2024
+CPU Utilization: 3.57%
+CPU Temperature1: +63.0°C
+CPU Temperature2: +39.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 00:10:03 BST 2024
+CPU Utilization: 3.57%
+CPU Temperature1: +62.0°C
+CPU Temperature2: +39.0°C
+CPU Temperature3: +25.0°C

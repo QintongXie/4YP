@@ -1,0 +1,2148 @@
+----------------------------------------
+Date and Time: Wed 17 Apr 06:39:28 BST 2024
+CPU Utilization: 3.50%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:39:30 BST 2024
+CPU Utilization: 3.53%
+CPU Temperature1: +90.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:39:32 BST 2024
+CPU Utilization: 3.54%
+CPU Temperature1: +88.0°C
+CPU Temperature2: +57.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:39:34 BST 2024
+CPU Utilization: 3.57%
+CPU Temperature1: +87.0°C
+CPU Temperature2: +57.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:39:36 BST 2024
+CPU Utilization: 3.57%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +57.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:39:38 BST 2024
+CPU Utilization: 3.28%
+CPU Temperature1: +68.0°C
+CPU Temperature2: +57.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:39:40 BST 2024
+CPU Utilization: 88.59%
+CPU Temperature1: +72.0°C
+CPU Temperature2: +57.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:39:43 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +79.0°C
+CPU Temperature2: +57.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:39:47 BST 2024
+CPU Utilization: 99.29%
+CPU Temperature1: +81.0°C
+CPU Temperature2: +57.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:39:50 BST 2024
+CPU Utilization: 99.39%
+CPU Temperature1: +81.0°C
+CPU Temperature2: +57.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:39:54 BST 2024
+CPU Utilization: 99.82%
+CPU Temperature1: +83.0°C
+CPU Temperature2: +57.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:39:57 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +57.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:00 BST 2024
+CPU Utilization: 99.15%
+CPU Temperature1: +80.0°C
+CPU Temperature2: +57.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:03 BST 2024
+CPU Utilization: 99.11%
+CPU Temperature1: +82.0°C
+CPU Temperature2: +57.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:06 BST 2024
+CPU Utilization: 99.36%
+CPU Temperature1: +81.0°C
+CPU Temperature2: +57.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:10 BST 2024
+CPU Utilization: 99.82%
+CPU Temperature1: +83.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:13 BST 2024
+CPU Utilization: 99.32%
+CPU Temperature1: +83.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:16 BST 2024
+CPU Utilization: 99.15%
+CPU Temperature1: +82.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:19 BST 2024
+CPU Utilization: 99.46%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:22 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:26 BST 2024
+CPU Utilization: 99.39%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +57.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:29 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +83.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:32 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:35 BST 2024
+CPU Utilization: 99.86%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:39 BST 2024
+CPU Utilization: 99.25%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:42 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:45 BST 2024
+CPU Utilization: 99.04%
+CPU Temperature1: +82.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:48 BST 2024
+CPU Utilization: 99.36%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:51 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:54 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:40:58 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:01 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +83.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:04 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:07 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +83.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:10 BST 2024
+CPU Utilization: 99.32%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:13 BST 2024
+CPU Utilization: 99.57%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:16 BST 2024
+CPU Utilization: 100.00%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:20 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:23 BST 2024
+CPU Utilization: 99.32%
+CPU Temperature1: +83.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:26 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:29 BST 2024
+CPU Utilization: 99.25%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:32 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:36 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:39 BST 2024
+CPU Utilization: 99.82%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:42 BST 2024
+CPU Utilization: 99.75%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:45 BST 2024
+CPU Utilization: 99.46%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:48 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:51 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +83.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:55 BST 2024
+CPU Utilization: 99.75%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:41:58 BST 2024
+CPU Utilization: 99.46%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:01 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:04 BST 2024
+CPU Utilization: 99.75%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:07 BST 2024
+CPU Utilization: 99.39%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:10 BST 2024
+CPU Utilization: 99.46%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:13 BST 2024
+CPU Utilization: 99.21%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:17 BST 2024
+CPU Utilization: 99.75%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:20 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:23 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:26 BST 2024
+CPU Utilization: 99.57%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:30 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:33 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:36 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:40 BST 2024
+CPU Utilization: 99.57%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:43 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:46 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:49 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:53 BST 2024
+CPU Utilization: 99.18%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:56 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:42:59 BST 2024
+CPU Utilization: 99.29%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:02 BST 2024
+CPU Utilization: 99.86%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:06 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:09 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:12 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:15 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:18 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:22 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:25 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:28 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:31 BST 2024
+CPU Utilization: 99.39%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:34 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:37 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:41 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:43 BST 2024
+CPU Utilization: 99.00%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:47 BST 2024
+CPU Utilization: 99.14%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:50 BST 2024
+CPU Utilization: 99.25%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:53 BST 2024
+CPU Utilization: 98.97%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:56 BST 2024
+CPU Utilization: 99.18%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:43:59 BST 2024
+CPU Utilization: 98.96%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:02 BST 2024
+CPU Utilization: 98.82%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:05 BST 2024
+CPU Utilization: 99.14%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:09 BST 2024
+CPU Utilization: 98.22%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:12 BST 2024
+CPU Utilization: 98.00%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:15 BST 2024
+CPU Utilization: 99.25%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:18 BST 2024
+CPU Utilization: 98.65%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:21 BST 2024
+CPU Utilization: 98.71%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:24 BST 2024
+CPU Utilization: 98.82%
+CPU Temperature1: +83.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:28 BST 2024
+CPU Utilization: 98.75%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:31 BST 2024
+CPU Utilization: 99.36%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:34 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:38 BST 2024
+CPU Utilization: 99.00%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:40 BST 2024
+CPU Utilization: 99.57%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:44 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:47 BST 2024
+CPU Utilization: 99.39%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:50 BST 2024
+CPU Utilization: 99.46%
+CPU Temperature1: +83.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:53 BST 2024
+CPU Utilization: 99.39%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:56 BST 2024
+CPU Utilization: 99.57%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:44:59 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:03 BST 2024
+CPU Utilization: 99.39%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:06 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:10 BST 2024
+CPU Utilization: 99.75%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:13 BST 2024
+CPU Utilization: 99.46%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:16 BST 2024
+CPU Utilization: 99.86%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:19 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:22 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:25 BST 2024
+CPU Utilization: 99.23%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:29 BST 2024
+CPU Utilization: 99.46%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:32 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:35 BST 2024
+CPU Utilization: 99.39%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:38 BST 2024
+CPU Utilization: 99.39%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:41 BST 2024
+CPU Utilization: 99.57%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:44 BST 2024
+CPU Utilization: 99.75%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:47 BST 2024
+CPU Utilization: 99.82%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:51 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:54 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:45:57 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:00 BST 2024
+CPU Utilization: 99.89%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:04 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:07 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:10 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:13 BST 2024
+CPU Utilization: 99.46%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:17 BST 2024
+CPU Utilization: 99.29%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:20 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:23 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:26 BST 2024
+CPU Utilization: 99.29%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:30 BST 2024
+CPU Utilization: 99.82%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:33 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:36 BST 2024
+CPU Utilization: 99.57%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:39 BST 2024
+CPU Utilization: 99.29%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:42 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:45 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:48 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:52 BST 2024
+CPU Utilization: 99.75%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:55 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:46:58 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:01 BST 2024
+CPU Utilization: 99.86%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:04 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:07 BST 2024
+CPU Utilization: 99.36%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:11 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:14 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:17 BST 2024
+CPU Utilization: 99.46%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:20 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:24 BST 2024
+CPU Utilization: 99.75%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:27 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:30 BST 2024
+CPU Utilization: 99.36%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:33 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:36 BST 2024
+CPU Utilization: 99.36%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:39 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:42 BST 2024
+CPU Utilization: 99.25%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:45 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:48 BST 2024
+CPU Utilization: 98.96%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:52 BST 2024
+CPU Utilization: 99.00%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:54 BST 2024
+CPU Utilization: 99.07%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:47:58 BST 2024
+CPU Utilization: 98.89%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:01 BST 2024
+CPU Utilization: 99.11%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:03 BST 2024
+CPU Utilization: 99.18%
+CPU Temperature1: +83.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:06 BST 2024
+CPU Utilization: 98.68%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:09 BST 2024
+CPU Utilization: 99.14%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:12 BST 2024
+CPU Utilization: 98.29%
+CPU Temperature1: +83.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:15 BST 2024
+CPU Utilization: 99.04%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:18 BST 2024
+CPU Utilization: 99.29%
+CPU Temperature1: +83.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:21 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:24 BST 2024
+CPU Utilization: 99.18%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:27 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:31 BST 2024
+CPU Utilization: 99.32%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:34 BST 2024
+CPU Utilization: 99.25%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:37 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:40 BST 2024
+CPU Utilization: 99.46%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:44 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:47 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:50 BST 2024
+CPU Utilization: 99.57%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:53 BST 2024
+CPU Utilization: 99.75%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:48:57 BST 2024
+CPU Utilization: 99.32%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:00 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:03 BST 2024
+CPU Utilization: 99.82%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:06 BST 2024
+CPU Utilization: 99.82%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:10 BST 2024
+CPU Utilization: 99.46%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:13 BST 2024
+CPU Utilization: 99.46%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:16 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:19 BST 2024
+CPU Utilization: 99.32%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:22 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:26 BST 2024
+CPU Utilization: 99.14%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:29 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:32 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:35 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:38 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:41 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:44 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:48 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:51 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:54 BST 2024
+CPU Utilization: 99.39%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:49:57 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:00 BST 2024
+CPU Utilization: 99.57%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:04 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:07 BST 2024
+CPU Utilization: 99.79%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:10 BST 2024
+CPU Utilization: 99.86%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:14 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:17 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:20 BST 2024
+CPU Utilization: 99.75%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:23 BST 2024
+CPU Utilization: 99.46%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:26 BST 2024
+CPU Utilization: 99.57%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:30 BST 2024
+CPU Utilization: 99.21%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:33 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:36 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:39 BST 2024
+CPU Utilization: 99.36%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:42 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:45 BST 2024
+CPU Utilization: 99.22%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:49 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:52 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:55 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:50:58 BST 2024
+CPU Utilization: 99.22%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:02 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:05 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:08 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:11 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:14 BST 2024
+CPU Utilization: 99.36%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:17 BST 2024
+CPU Utilization: 99.75%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:20 BST 2024
+CPU Utilization: 99.47%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:23 BST 2024
+CPU Utilization: 99.57%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:27 BST 2024
+CPU Utilization: 99.32%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:30 BST 2024
+CPU Utilization: 99.29%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:33 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:36 BST 2024
+CPU Utilization: 99.25%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:40 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:43 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:46 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:49 BST 2024
+CPU Utilization: 99.82%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:52 BST 2024
+CPU Utilization: 99.29%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:55 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:51:59 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:02 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:05 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:08 BST 2024
+CPU Utilization: 99.32%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:11 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:14 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:18 BST 2024
+CPU Utilization: 99.36%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:21 BST 2024
+CPU Utilization: 99.00%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:24 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:28 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:31 BST 2024
+CPU Utilization: 99.07%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:33 BST 2024
+CPU Utilization: 98.82%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:37 BST 2024
+CPU Utilization: 98.76%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:40 BST 2024
+CPU Utilization: 98.93%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:43 BST 2024
+CPU Utilization: 99.36%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:46 BST 2024
+CPU Utilization: 98.68%
+CPU Temperature1: +83.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:48 BST 2024
+CPU Utilization: 98.29%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:51 BST 2024
+CPU Utilization: 98.75%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:54 BST 2024
+CPU Utilization: 98.89%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:52:58 BST 2024
+CPU Utilization: 99.03%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:00 BST 2024
+CPU Utilization: 98.96%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:04 BST 2024
+CPU Utilization: 98.47%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:07 BST 2024
+CPU Utilization: 99.14%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:10 BST 2024
+CPU Utilization: 99.14%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:13 BST 2024
+CPU Utilization: 99.29%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:16 BST 2024
+CPU Utilization: 99.32%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:19 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:23 BST 2024
+CPU Utilization: 99.79%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:26 BST 2024
+CPU Utilization: 99.39%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:29 BST 2024
+CPU Utilization: 99.46%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:32 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:36 BST 2024
+CPU Utilization: 99.79%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:39 BST 2024
+CPU Utilization: 99.14%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:42 BST 2024
+CPU Utilization: 99.82%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:46 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:49 BST 2024
+CPU Utilization: 99.46%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:52 BST 2024
+CPU Utilization: 99.86%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:56 BST 2024
+CPU Utilization: 99.79%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:53:59 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:02 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:05 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:09 BST 2024
+CPU Utilization: 99.57%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:12 BST 2024
+CPU Utilization: 99.21%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:15 BST 2024
+CPU Utilization: 99.29%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:19 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:22 BST 2024
+CPU Utilization: 99.46%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:25 BST 2024
+CPU Utilization: 99.75%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:28 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:31 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:35 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:38 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:41 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:44 BST 2024
+CPU Utilization: 99.39%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:47 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:50 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:54 BST 2024
+CPU Utilization: 99.57%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:54:57 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:00 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:03 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:06 BST 2024
+CPU Utilization: 99.57%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:10 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:13 BST 2024
+CPU Utilization: 99.11%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:16 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:19 BST 2024
+CPU Utilization: 99.64%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:23 BST 2024
+CPU Utilization: 99.82%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:26 BST 2024
+CPU Utilization: 99.25%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:29 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:32 BST 2024
+CPU Utilization: 99.39%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:35 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:39 BST 2024
+CPU Utilization: 99.46%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:42 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:45 BST 2024
+CPU Utilization: 99.71%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:48 BST 2024
+CPU Utilization: 99.14%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:51 BST 2024
+CPU Utilization: 99.86%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:55 BST 2024
+CPU Utilization: 99.82%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:55:58 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:01 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:04 BST 2024
+CPU Utilization: 99.68%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:08 BST 2024
+CPU Utilization: 99.39%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:11 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:14 BST 2024
+CPU Utilization: 99.57%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:18 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:21 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:24 BST 2024
+CPU Utilization: 99.32%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:27 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:30 BST 2024
+CPU Utilization: 99.61%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:34 BST 2024
+CPU Utilization: 99.43%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:37 BST 2024
+CPU Utilization: 99.57%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:41 BST 2024
+CPU Utilization: 99.75%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:44 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:47 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:50 BST 2024
+CPU Utilization: 99.54%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:53 BST 2024
+CPU Utilization: 99.36%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:56:57 BST 2024
+CPU Utilization: 99.18%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:00 BST 2024
+CPU Utilization: 99.21%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:03 BST 2024
+CPU Utilization: 99.39%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:06 BST 2024
+CPU Utilization: 99.04%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:10 BST 2024
+CPU Utilization: 99.75%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:13 BST 2024
+CPU Utilization: 99.21%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:16 BST 2024
+CPU Utilization: 98.79%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:19 BST 2024
+CPU Utilization: 99.36%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:23 BST 2024
+CPU Utilization: 98.93%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:26 BST 2024
+CPU Utilization: 99.11%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:29 BST 2024
+CPU Utilization: 98.89%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:32 BST 2024
+CPU Utilization: 98.79%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:35 BST 2024
+CPU Utilization: 99.04%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:38 BST 2024
+CPU Utilization: 99.29%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:42 BST 2024
+CPU Utilization: 98.25%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:45 BST 2024
+CPU Utilization: 98.89%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:48 BST 2024
+CPU Utilization: 99.25%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:51 BST 2024
+CPU Utilization: 99.03%
+CPU Temperature1: +83.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:54 BST 2024
+CPU Utilization: 98.72%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:57:58 BST 2024
+CPU Utilization: 98.89%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:58:01 BST 2024
+CPU Utilization: 99.00%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:58:04 BST 2024
+CPU Utilization: 99.11%
+CPU Temperature1: +83.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:58:06 BST 2024
+CPU Utilization: 97.71%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:58:08 BST 2024
+CPU Utilization: 96.00%
+CPU Temperature1: +84.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:58:10 BST 2024
+CPU Utilization: 98.21%
+CPU Temperature1: +86.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:58:12 BST 2024
+CPU Utilization: 96.59%
+CPU Temperature1: +87.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
+----------------------------------------
+Date and Time: Wed 17 Apr 06:58:14 BST 2024
+CPU Utilization: 99.50%
+CPU Temperature1: +85.0°C
+CPU Temperature2: +58.0°C
+CPU Temperature3: +25.0°C
