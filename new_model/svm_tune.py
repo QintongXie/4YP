@@ -14,7 +14,7 @@ warnings.filterwarnings('ignore')
 
 try:
     # Generate a filename for the output file
-    filename = "./DATA/svm_cpu_log1_" + datetime.now().strftime("%Y%m%d_%H%M%S") + ".txt"
+    filename = "./DATA/svm_tune_cpu_log1_" + datetime.now().strftime("%Y%m%d_%H%M%S") + ".txt"
 
     # Path to your Bash script
     bash_script_path = "./ai_sensors_cpu_auto_to_file.sh"
