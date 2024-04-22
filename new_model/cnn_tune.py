@@ -83,6 +83,13 @@ try:
     # Get the best hyperparameters
     best_hps = tuner.get_best_hyperparameters(num_trials=1)[0]
 
+    # Print the best hyperparameters
+    print("Best Hyperparameters:")
+    print(f"  conv1_units: {best_hps.get('conv1_units')}")
+    print(f"  conv2_units: {best_hps.get('conv2_units')}")
+    print(f"  dense_units: {best_hps.get('dense_units')}")
+    print(f"  learning_rate: {best_hps.get('learning_rate')}")
+
     # Build the model with the best hyperparameters
     model = tuner.hypermodel.build(best_hps)
 
