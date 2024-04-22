@@ -49,14 +49,14 @@ try:
 
     # Get the best parameters from the grid search
     best_params = grid_search.best_params_
+    print(f"Best Parameters: {best_params}")
 
     # Train the Random Forest model with the best parameters
     best_rf_classifier = RandomForestClassifier(random_state=42, n_jobs=-1, **best_params)
     start_time = time.time()
     best_rf_classifier.fit(X_train, y_train)
     end_time = time.time()
-    # print(f"Best Parameters: {best_params}")
-
+    
     # Evaluate the model on the test set
     # y_pred = best_rf_classifier.predict(X_test)
 
