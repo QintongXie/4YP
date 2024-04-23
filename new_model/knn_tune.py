@@ -48,6 +48,7 @@ try:
 
     # Get the best parameters from the grid search
     best_params = grid_search.best_params_
+    print(f"Best Hyperparameters: {best_params}")
 
     # Make predictions on the test set
     # y_pred = grid_search.predict(X_test)
@@ -58,7 +59,6 @@ try:
     # Calculate training time
     training_time = end_time - start_time
     print(f"Training completed. Training time: {training_time:.2f} seconds")
-    print(f"Best Hyperparameters: {best_params}")
 
 except Exception as e:
     print(f"An error occurred: {e}")
