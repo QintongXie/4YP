@@ -55,6 +55,8 @@ try:
     start_time = time.time()
     grid_search.fit(X_train_pca, y_train_flat)
     end_time = time.time()
+    
+    print("Best parameters: ", grid_search.best_params_)
 
     # Stop monitoring CPU utilization
     monitor_process.kill()
@@ -62,9 +64,6 @@ try:
     # Calculate training time
     training_time = end_time - start_time
     print(f"Training completed. Training time: {training_time:.2f} seconds")
-
-    # Print the best parameters and their corresponding accuracy
-    # print("Best parameters: ", grid_search.best_params_)
     # print("Accuracy on the test set: {:.4f}".format(grid_search.best_estimator_.score(X_test_pca, y_test_flat)))
 
 except Exception as e:
