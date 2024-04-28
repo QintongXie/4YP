@@ -14,10 +14,10 @@ warnings.filterwarnings('ignore')
 
 try:
     # Generate a filename for the output file
-    filename = "./DATA/svm_tune_cpu_log1_" + datetime.now().strftime("%Y%m%d_%H%M%S") + ".txt"
+    filename = "../DATA/svm_tune_cpu_log1_" + datetime.now().strftime("%Y%m%d_%H%M%S") + ".txt"
 
     # Path to your Bash script
-    bash_script_path = "./ai_sensors_cpu_auto_to_file.sh"
+    bash_script_path = "../monitor/ai_sensors_cpu_auto_to_file.sh"
 
     # Start the Bash script with subprocess.Popen, passing the filename as an argument
     monitor_process = subprocess.Popen(['/bin/bash', bash_script_path, filename])

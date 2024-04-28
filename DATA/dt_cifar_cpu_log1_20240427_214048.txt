@@ -1,0 +1,276 @@
+----------------------------------------
+Date and Time: Sat 27 Apr 21:40:48 BST 2024
+CPU Utilization: 2.00%
+CPU Temperature1: +53.5°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:40:50 BST 2024
+CPU Utilization: 3.09%
+CPU Temperature1: +53.0°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:40:52 BST 2024
+CPU Utilization: 3.09%
+CPU Temperature1: +52.5°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:40:54 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.1°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:40:56 BST 2024
+CPU Utilization: 3.09%
+CPU Temperature1: +51.9°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:40:58 BST 2024
+CPU Utilization: 3.13%
+CPU Temperature1: +51.6°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:00 BST 2024
+CPU Utilization: 3.09%
+CPU Temperature1: +51.5°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:02 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +51.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:04 BST 2024
+CPU Utilization: 3.11%
+CPU Temperature1: +51.5°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:06 BST 2024
+CPU Utilization: 3.16%
+CPU Temperature1: +51.9°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:08 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.1°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:10 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.2°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:12 BST 2024
+CPU Utilization: 3.16%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:14 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:16 BST 2024
+CPU Utilization: 3.15%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:18 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:20 BST 2024
+CPU Utilization: 3.15%
+CPU Temperature1: +52.2°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:22 BST 2024
+CPU Utilization: 3.07%
+CPU Temperature1: +52.0°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:24 BST 2024
+CPU Utilization: 3.09%
+CPU Temperature1: +51.9°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:26 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.1°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:28 BST 2024
+CPU Utilization: 3.16%
+CPU Temperature1: +52.2°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:30 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:32 BST 2024
+CPU Utilization: 3.10%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:34 BST 2024
+CPU Utilization: 3.09%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:37 BST 2024
+CPU Utilization: 3.13%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:39 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.5°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:41 BST 2024
+CPU Utilization: 3.15%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:43 BST 2024
+CPU Utilization: 3.10%
+CPU Temperature1: +52.5°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:45 BST 2024
+CPU Utilization: 3.13%
+CPU Temperature1: +52.5°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:47 BST 2024
+CPU Utilization: 3.09%
+CPU Temperature1: +52.5°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:49 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:51 BST 2024
+CPU Utilization: 3.13%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:53 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:55 BST 2024
+CPU Utilization: 3.10%
+CPU Temperature1: +52.2°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:57 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:41:59 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:01 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:03 BST 2024
+CPU Utilization: 3.13%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:05 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.2°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:07 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:09 BST 2024
+CPU Utilization: 3.16%
+CPU Temperature1: +52.1°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:11 BST 2024
+CPU Utilization: 3.19%
+CPU Temperature1: +51.9°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:13 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +51.6°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:15 BST 2024
+CPU Utilization: 3.13%
+CPU Temperature1: +52.1°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:17 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.2°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:19 BST 2024
+CPU Utilization: 3.13%
+CPU Temperature1: +52.2°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:21 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.1°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:23 BST 2024
+CPU Utilization: 3.10%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:25 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:27 BST 2024
+CPU Utilization: 3.15%
+CPU Temperature1: +52.5°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:30 BST 2024
+CPU Utilization: 3.10%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:32 BST 2024
+CPU Utilization: 3.15%
+CPU Temperature1: +52.2°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:34 BST 2024
+CPU Utilization: 3.10%
+CPU Temperature1: +52.2°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:36 BST 2024
+CPU Utilization: 3.13%
+CPU Temperature1: +52.2°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:38 BST 2024
+CPU Utilization: 3.10%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:40 BST 2024
+CPU Utilization: 3.13%
+CPU Temperature1: +52.1°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:42 BST 2024
+CPU Utilization: 3.13%
+CPU Temperature1: +51.9°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:44 BST 2024
+CPU Utilization: 3.09%
+CPU Temperature1: +52.1°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:46 BST 2024
+CPU Utilization: 3.13%
+CPU Temperature1: +52.0°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:48 BST 2024
+CPU Utilization: 3.12%
+CPU Temperature1: +52.1°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:50 BST 2024
+CPU Utilization: 3.10%
+CPU Temperature1: +52.2°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:52 BST 2024
+CPU Utilization: 3.09%
+CPU Temperature1: +52.5°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:54 BST 2024
+CPU Utilization: 3.10%
+CPU Temperature1: +52.5°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:56 BST 2024
+CPU Utilization: 3.15%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:42:58 BST 2024
+CPU Utilization: 3.10%
+CPU Temperature1: +52.4°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:43:00 BST 2024
+CPU Utilization: 3.15%
+CPU Temperature1: +52.2°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:43:02 BST 2024
+CPU Utilization: 3.09%
+CPU Temperature1: +52.2°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:43:04 BST 2024
+CPU Utilization: 3.13%
+CPU Temperature1: +52.2°C
+----------------------------------------
+Date and Time: Sat 27 Apr 21:43:06 BST 2024
+CPU Utilization: 3.10%
+CPU Temperature1: +52.1°C

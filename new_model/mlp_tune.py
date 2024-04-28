@@ -8,6 +8,7 @@ import tensorflow as tf
 from sklearn.datasets import fetch_openml
 from sklearn.model_selection import train_test_split
 from tensorflow.keras import layers, regularizers
+import keras_tuner
 from kerastuner.tuners import RandomSearch
 
 # Suppress TensorFlow logging (1 = INFO, 2 = WARNING, 3 = ERROR)
@@ -22,10 +23,10 @@ tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
 
 try:
     # Generate a filename for the output file
-    filename = "./DATA/mlp_tune_cpu_log1_" + datetime.now().strftime("%Y%m%d_%H%M%S") + ".txt"
+    filename = "../DATA/mlp_tune_cpu_log1_" + datetime.now().strftime("%Y%m%d_%H%M%S") + ".txt"
 
     # Path to your Bash script
-    bash_script_path = "./ai_sensors_cpu_auto_to_file.sh"
+    bash_script_path = "../monitor/ai_sensors_cpu_auto_to_file.sh"
 
     # Start the Bash script with subprocess.Popen, passing the filename as an argument
     monitor_process = subprocess.Popen(['/bin/bash', bash_script_path, filename])
