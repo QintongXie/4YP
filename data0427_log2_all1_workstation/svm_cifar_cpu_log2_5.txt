@@ -1,0 +1,29 @@
+2024-04-28 03:17:18.115348: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-04-28 03:17:18.612291: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+#           time             counts unit events
+     1.001026351     22,670,241,413      cycles                                                                  (82.98%)
+     1.001026351     19,178,843,764      instructions                     #    0.85  insn per cycle              (84.59%)
+     1.001026351        408,040,345      cache-references                                                        (82.54%)
+     1.001026351         74,305,127      cache-misses                     #   18.21% of all cache refs           (83.47%)
+     1.001026351      4,005,914,266      branches                                                                (84.10%)
+     1.001026351        463,462,783      branch-misses                    #   11.57% of all branches             (82.38%)
+     2.002400720      4,547,107,924      cycles                                                                  (83.38%)
+     2.002400720      6,400,353,369      instructions                     #    1.41  insn per cycle              (83.14%)
+     2.002400720        288,369,569      cache-references                                                        (82.93%)
+     2.002400720         55,418,540      cache-misses                     #   19.22% of all cache refs           (83.73%)
+     2.002400720      1,200,619,222      branches                                                                (83.51%)
+     2.002400720         35,919,805      branch-misses                    #    2.99% of all branches             (83.37%)
+Training completed. Training time: 0.41 seconds
+     3.003674028      4,575,238,835      cycles                                                                  (83.60%)
+     3.003674028      7,448,847,573      instructions                     #    1.63  insn per cycle              (83.44%)
+     3.003674028      1,729,419,771      cache-references                                                        (83.27%)
+     3.003674028         79,415,074      cache-misses                     #    4.59% of all cache refs           (83.29%)
+     3.003674028      1,127,700,747      branches                                                                (83.31%)
+     3.003674028          8,979,797      branch-misses                    #    0.80% of all branches             (83.67%)
+     3.004818342          4,932,792      cycles                                                                
+     3.004818342      <not counted>      instructions                                                            (0.00%)
+     3.004818342             61,447      cache-references                                                      
+     3.004818342             24,959      cache-misses                     #   40.62% of all cache refs         
+     3.004818342            706,351      branches                                                              
+     3.004818342             83,683      branch-misses                    #   11.85% of all branches           
